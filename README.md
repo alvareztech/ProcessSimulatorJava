@@ -1,6 +1,6 @@
-# ProcessSimulatorJava
+# Process Simulator in Java
 
-A simple Java application that simulates the behavior of processes in an operating system
+A simple Java application that simulates the behavior of processes in an operating system. This was a small project presented in 2010.
 
 ## Algorithms
 
